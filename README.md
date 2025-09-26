@@ -16,7 +16,7 @@
   <main>
     <h2>Snapshots of My Life</h2>
     <p>Hi, I'm Joy! This site is a scrapbook of my favorite memories, travels, and milestones.</p>
-    <img src=![alt text](6489.jpeg) alt="Joy hiking in the mountains">
+    <img src=![alt text](2128.jpeg) alt="Joy hiking in the mountains">
     <img src=![alt text](6489.jpeg) alt="Joy at graduation">
     <img src=![alt text](6489.jpeg) alt="Joy cooking a family recipe">
   </main>
